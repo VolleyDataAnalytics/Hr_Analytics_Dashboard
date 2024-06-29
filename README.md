@@ -22,6 +22,8 @@ The HR Analytics Dashboard provides insights into employee attrition across vari
 - **46-55**: 26 employees
 - **55+**: 8 employees
 
+  
+
 ![Screenshot (57)](https://github.com/VolleyDataAnalytics/Hr_Analytics_Dashboard/assets/120261965/99af659c-c9d4-4294-95a5-d45a2b158b9e)
 
  **Attrition by Job Role**
@@ -29,12 +31,16 @@ The HR Analytics Dashboard provides insights into employee attrition across vari
 - **Sales Executive**: 57 employees
 - **Research Scientist**: 47 employees
 - **Sales Representative**: 33 employees
+
+
 ![Screenshot (58)](https://github.com/VolleyDataAnalytics/Hr_Analytics_Dashboard/assets/120261965/ae210e64-75fd-4572-95e0-9247ada4f161)
 **Attrition by Education**
 - **Medical**: 38%
 - **Life Sciences**: 27%
 - **Marketing**: 15%
 - **Technical Degree**: 14%
+
+  
 ![Screenshot (58)](https://github.com/VolleyDataAnalytics/Hr_Analytics_Dashboard/assets/120261965/8b42e868-bc6c-4fc6-ba8c-37d5a5c5315a)
 
 ### Attrition by Salary Slab
@@ -43,6 +49,8 @@ The HR Analytics Dashboard provides insights into employee attrition across vari
 - **$5K-$10K**: 49 employees
 - **$10K-$15K**: 20 employees
 - **$15K+**: 5 employees
+
+
 
 ![Screenshot (58)](https://github.com/VolleyDataAnalytics/Hr_Analytics_Dashboard/assets/120261965/93d713ad-a07d-4057-82e0-f8384ee7ac09)
 
@@ -56,11 +64,16 @@ The HR Analytics Dashboard provides insights into employee attrition across vari
 - **25-30 Years**: 8 employees
 - **30-35 Years**: 21 employees
 - **35-40 Years**: 9 employees
+
+
 ![Screenshot (58)](https://github.com/VolleyDataAnalytics/Hr_Analytics_Dashboard/assets/120261965/e08475fc-3a2a-4d96-b8f4-5f6ddc6d5135)
 ### Attrition by Gender
 
 - **Male**: 150 employees
 - **Female**: 87 employees
+
+
+
 ![Screenshot (58)](https://github.com/VolleyDataAnalytics/Hr_Analytics_Dashboard/assets/120261965/dc210a26-ad0a-457c-8c76-af90b5f1aede)
 
 ## Recommendations
