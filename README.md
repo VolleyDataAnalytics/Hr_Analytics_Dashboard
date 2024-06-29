@@ -34,6 +34,9 @@ The HR Analytics Dashboard provides insights into employee attrition across vari
 
 
 ![Screenshot (58)](https://github.com/VolleyDataAnalytics/Hr_Analytics_Dashboard/assets/120261965/ae210e64-75fd-4572-95e0-9247ada4f161)
+
+
+
 **Attrition by Education**
 - **Medical**: 38%
 - **Life Sciences**: 27%
